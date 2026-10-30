@@ -17,7 +17,8 @@ To design and develop UML diagrams for an ATM and Banking System using StarUML t
 
 ## USE CASE DIAGRAM
 
-<img width="901" height="742" alt="ATM Use Case" src="https://github.com/user-attachments/assets/9ef23555-8c06-40b1-9f76-9e03b12ce2e5" />
+<img width="595" height="796" alt="Screenshot 2026-10-30 084241" src="https://github.com/user-attachments/assets/664e1248-4095-45db-84df-5c8b6f9d1330" />
+
 
 ## CLASS DIAGRAM
 
