@@ -17,28 +17,32 @@ To design and develop UML diagrams for an ATM and Banking System using StarUML t
 
 ## USE CASE DIAGRAM
 
-<img width="595" height="796" alt="Screenshot 2026-10-30 084241" src="https://github.com/user-attachments/assets/664e1248-4095-45db-84df-5c8b6f9d1330" />
+<img width="697" height="809" alt="ATM Use case" src="https://github.com/user-attachments/assets/148e76cf-3d3e-4e49-b2ba-358a1acb375f" />
+
 
 
 ## CLASS DIAGRAM
 
-<img width="857" height="565" alt="ATM Class" src="https://github.com/user-attachments/assets/3d2cb7cf-8e6c-413e-b818-e8a54d97fb26" />
+<img width="1042" height="649" alt="ATM Class" src="https://github.com/user-attachments/assets/490c585a-bc99-4b7c-9290-c1c9c15f8815" />
+
 
 ## SEQUENCE DIAGRAM
 
-<img width="856" height="734" alt="ATM Sequence" src="https://github.com/user-attachments/assets/26826906-a439-458a-943d-f587aae3f52f" />
+<img width="762" height="800" alt="ATM Sequence" src="https://github.com/user-attachments/assets/f9e92d93-7a17-42e9-b104-6f7a9540134e" />
 
 ## ACTIVITY DIAGRAM
 
-<img width="577" height="831" alt="ATM Activity" src="https://github.com/user-attachments/assets/cca1d775-40d0-4ca7-89e4-f36ed363f9d2" />
+<img width="632" height="853" alt="ATM Activity" src="https://github.com/user-attachments/assets/07051435-9929-4703-87ce-3e3fc3679d5d" />
+
 
 ## PACKAGE DIAGRAM
 
-<img width="645" height="432" alt="ATM Package" src="https://github.com/user-attachments/assets/a5941574-5913-45ba-8610-2a3f30d5a926" />
+<img width="645" height="432" alt="ATM Package" src="https://github.com/user-attachments/assets/9ada343d-afed-4efa-93b8-1b634ef885e9" />
+
 
 ## COMMUNICATION DIAGRAM
 
-<img width="891" height="631" alt="ATM Communication" src="https://github.com/user-attachments/assets/c62f5651-ddc8-48f2-9c59-0b436175815a" />
+<img width="1013" height="547" alt="ATM Communication" src="https://github.com/user-attachments/assets/66af11b8-f7ff-4564-bb53-529b8d905eb0" />
 
 
 # RESULT:
